@@ -1,0 +1,13 @@
+\contentsline {chapter}{Graduation mission ticket}{2}
+\contentsline {chapter}{Acknowledgement}{4}
+\contentsline {chapter}{Abstract}{5}
+\contentsline {chapter}{Preface}{6}
+\contentsline {chapter}{Glossaries}{6}
+\contentsline {chapter}{\numberline {1}Introduction}{11}
+\contentsline {subsection}{\numberline {1.0.1}Deep Q-Network}{11}
+\contentsline {chapter}{\numberline {2}Problem formulation}{12}
+\contentsline {chapter}{\numberline {3}Proposed method}{13}
+\contentsline {subsection}{\numberline {3.0.1}New algorithm}{13}
+\contentsline {chapter}{\numberline {4}Result}{14}
+\contentsline {subsection}{\numberline {4.0.1}Small instance}{14}
+\contentsline {chapter}{Conclusion}{16}
